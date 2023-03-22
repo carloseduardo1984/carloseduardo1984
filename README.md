@@ -1,5 +1,10 @@
 ## Oiii eu sou a Carlos Oliveira, criador de conteúdo de Testes para projetos de software, programação e tecnologia!
-AI ALGUNS DE MEUS CONHEICMENTOS PARA COMPARTILHAR...
+AI ALGUNS DE MEUS CONHECIMENTOS PARA COMPARTILHAR...
+
+<div>
+  <a href="https://https://www.linkedin.com/in/carlosoliveira1984/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carloseduardo1984&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>       
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduardo1984&layout=compact&langs_count=16&theme=dracula"/> 
 
 
 <div style="display: inline_block"><br> 
