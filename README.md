@@ -1,4 +1,4 @@
-## Oiii eu sou a Carlos Oliveira, criador de conteúdo de Testes para projetos de software, programação e tecnologia!
+## Hello!!! sou o Carlos Oliveira, criador de conteúdo de Testes para projetos de software, programação e tecnologia!
 AI ALGUNS DE MEUS CONHECIMENTOS PARA COMPARTILHAR...
 
 <div>
