@@ -25,6 +25,8 @@ AI ALGUNS DE MEUS CONHECIMENTOS PARA COMPARTILHAR...
 
 <div>
   <a href="https://https://www.linkedin.com/in/carlosoliveira1984/>
+           
+           - 🔭 For AUTOMATION TESTING PIPELINES AND AGILE PROJECTS
   
   <div style="display: inline_block"><br> 
   <img align="center" alt="carloseduardo1984-SE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
