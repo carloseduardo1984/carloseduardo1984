@@ -25,12 +25,9 @@ AI ALGUNS DE MEUS CONHECIMENTOS PARA COMPARTILHAR...
 
 <div>
   <a href="https://https://www.linkedin.com/in/carlosoliveira1984/>
-           
-           <h3 align="left">🔭 For AUTOMATION TESTING PIPELINES AND AGILE PROJECTS</h3>
-           
-           -
-  
+ 
   <div style="display: inline_block"><br> 
+  <h3 align="left">🔭 For AUTOMATION TESTING PIPELINES AND AGILE PROJECTS</h3>                                  
   <img align="center" alt="carloseduardo1984-SE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
   <img align="center" alt="carloseduardo1984-CC" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg">
   <img align="center" alt="carloseduardo1984-JST" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
