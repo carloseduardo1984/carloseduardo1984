@@ -1,5 +1,6 @@
 ## Hello!!! sou o Carlos Oliveira, 
 EN - Here some knowledge to share with the SQA collegues...
+
 PT - AI ALGUNS DE MEUS CONHECIMENTOS PARA COMPARTILHAR...
 
 <h3 align="left"> <img src="https://komarev.com/ghpvc/?username=carloseduardo1984&label=Profile%20views&color=0e75b6&style=flat" alt="carloseduardo1984" /> A passionate Senior QA Tester Engineer   </h3>
